@@ -1,4 +1,4 @@
-I opted for Visual Studio Code (VS Code) as the code editor for its simplicity and robust feature set. VS Code offers a smooth development experience with handy features like IntelliSense and Git integration, making it an excellent choice for web development.
+1. I opted for Visual Studio Code (VS Code) as the code editor for its simplicity and robust feature set. VS Code offers a smooth development experience with handy features like IntelliSense and Git integration, making it an excellent choice for web development.
 
 2. Use of HTML:
 HTML, the backbone of web content structuring, was chosen to define the webpage's elements. Its semantic nature ensures clarity and accessibility, both for developers and browsers.
